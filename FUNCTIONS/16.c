@@ -1,0 +1,4 @@
+/* 
+local variable is accesable in block of code only
+global varialble is declared outside any block and can be used in whole code
+*/

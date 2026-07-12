@@ -1,0 +1,1 @@
+// Arguments/parameters are used to pass values to a function so that it can perform operations on different inputs.
